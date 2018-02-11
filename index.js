@@ -18,12 +18,8 @@
 
 3.alloylever https://github.com/AlloyTeam/AlloyLever(腾讯团队的维护)
 
-4.BetterJS https://github.com/BetterJS (腾讯团队的维护, 这个也比较靠谱)
+4.BetterJS https://github.com/BetterJS/doc (腾讯团队的维护, 这个也比较靠谱)
 
 5.fundebug https://www.fundebug.com/product(收费的产品)
 
 6.bugsnag  https://docs.bugsnag.com/(有人说不是很靠谱)
-
-
-四.实战的案例
-1.京东前端监控(PhantomJS和NodeJS): https://juejin.im/entry/57c77b6fd342d30068cb2de8
